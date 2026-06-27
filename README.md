@@ -54,4 +54,16 @@ and building executive dashboards in **Power BI** and **Looker Studio**.
 
 ---
 
+### 📜 Certifications
+
+| Certification | Issuer | |
+|---------------|--------|---|
+| Google Analytics Certification | Skillshop | [🔗 Verify](https://skillshop.credential.net/4e82e539-0321-4b36-8040-66f1bbc8124f) |
+| Inbound Marketing Certified | HubSpot Academy | [🔗 Verify](https://app-eu1.hubspot.com/academy/achievements/04vw1j1z/en/1/olamilekan-kadiku/inbound-marketing-certified) |
+| Google Tag Manager Fundamentals | Google | — |
+| Meta Certified Media Planning Professional | Meta | — |
+| Data Analyst with SQL | DataCamp | — |
+
+---
+
 <p align="center"><i>Thanks for visiting — explore the repositories and feel free to reach out!</i></p>
