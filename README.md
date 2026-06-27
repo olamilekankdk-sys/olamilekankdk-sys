@@ -45,6 +45,7 @@ Power BI, Looker Studio, and beyond.
 |---------|--------------|-------|
 | **[📈 Power BI Sales & Revenue Dashboard](https://github.com/olamilekankdk-sys/powerbi-sales-dashboard)** | Executive single-page dashboard: revenue/profit KPIs, YoY trends, targets vs. actuals, regional & product breakdowns — on a star-schema model with 30+ DAX measures. | Power BI · DAX · Power Query |
 | **[🛒 Olist Marketing Analysis](https://github.com/olamilekankdk-sys/olist-marketing-analysis)** | Analysis of the Brazilian Olist e-commerce dataset — orders, revenue, delivery times, reviews, and repeat-vs-onetime customer behavior, with an interactive dashboard. | SQL · Data Viz |
+| **[📊 Looker Studio Report](https://github.com/olamilekankdk-sys/looker-studio-report)** | A live, interactive Looker Studio dashboard embedded and hosted on GitHub Pages — explorable in-browser. [View it live →](https://olamilekankdk-sys.github.io/looker-studio-report/) | Looker Studio · GitHub Pages |
 
 > 📌 *Tip: these are pinned on my profile below.*
 
