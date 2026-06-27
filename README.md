@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst — turning raw data into decisions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+  <a href="https://www.linkedin.com/in/lekankadiku/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:olamilekankdk@gmail.com">
