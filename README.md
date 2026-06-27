@@ -9,10 +9,6 @@
   <a href="mailto:olamilekankdk@gmail.com">
     <img src="https://img.shields.io/badge/Email-olamilekankdk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leksxibk.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Website-17A398?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 ---
