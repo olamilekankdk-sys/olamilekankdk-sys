@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#161f3c"/>
+    </linearGradient>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c6cf0"/>
+      <stop offset="1" stop-color="#ff6b5e"/>
+    </linearGradient>
+    <style>
+      .num{font-size:38px;font-weight:800;}
+      .lab{font-size:14px;fill:#9aa7c7;}
+      .small{font-size:20px;font-weight:700;}
+    </style>
+  </defs>
+
+  <rect width="1000" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1000" height="6" rx="3" fill="url(#grad)"/>
+
+  <text x="40" y="58" font-size="13" letter-spacing="3" fill="#ff6b5e" font-weight="700">PROOF OF PERFORMANCE</text>
+  <text x="40" y="92" font-size="26" font-weight="800" fill="#eef2ff">Digital marketing results that move revenue</text>
+
+  <!-- KPI tiles -->
+  <g>
+    <!-- tile 1 -->
+    <rect x="40"  y="120" width="220" height="150" rx="14" fill="#151d36" stroke="#243056"/>
+    <rect x="40"  y="120" width="5"  height="150" rx="3" fill="url(#grad)"/>
+    <text x="64" y="190" class="num" fill="#23c4a0">4:1</text>
+    <text x="64" y="218" class="lab">ROAS on £15k/mo</text>
+    <text x="64" y="238" class="lab">paid media budget</text>
+
+    <!-- tile 2 -->
+    <rect x="280" y="120" width="220" height="150" rx="14" fill="#151d36" stroke="#243056"/>
+    <rect x="280" y="120" width="5"  height="150" rx="3" fill="url(#grad)"/>
+    <text x="304" y="190" class="num" fill="#ff6b5e">+45<tspan class="small">%</tspan></text>
+    <text x="304" y="218" class="lab">organic traffic</text>
+    <text x="304" y="238" class="lab">via technical SEO</text>
+
+    <!-- tile 3 -->
+    <rect x="520" y="120" width="220" height="150" rx="14" fill="#151d36" stroke="#243056"/>
+    <rect x="520" y="120" width="5"  height="150" rx="3" fill="url(#grad)"/>
+    <text x="544" y="190" class="num" fill="#a99bff">+60<tspan class="small">%</tspan></text>
+    <text x="544" y="218" class="lab">social audience</text>
+    <text x="544" y="238" class="lab">IG &amp; TikTok</text>
+
+    <!-- tile 4 -->
+    <rect x="760" y="120" width="220" height="150" rx="14" fill="#151d36" stroke="#243056"/>
+    <rect x="760" y="120" width="5"  height="150" rx="3" fill="url(#grad)"/>
+    <text x="784" y="190" class="num" fill="#ffc857">+12<tspan class="small">%</tspan></text>
+    <text x="784" y="218" class="lab">sales conversion</text>
+    <text x="784" y="238" class="lab">GA4-led CRO</text>
+  </g>
+
+  <text x="40" y="300" font-size="13" fill="#6b779b">Email lifecycle flows: 28% open rate · 6.5% CTR  —  Outcomes from prior e-commerce roles</text>
+</svg>
