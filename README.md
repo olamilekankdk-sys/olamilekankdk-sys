@@ -83,7 +83,7 @@ Marketing only counts if you can prove it. These repos show how I measure perfor
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
-| Google Analytics (GA4) Individual Qualification | Google | 2025 |
+| Google Analytics (GA4) Individual Qualification | Google | 2026 |
 | Inbound Marketing Certification | HubSpot Academy | 2026 |
 
 ---
