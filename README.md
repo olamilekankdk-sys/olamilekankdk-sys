@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://olamilekankdk-sys.github.io/">
-    <img src="assets/results.svg" alt="Proof of performance: 4:1 ROAS, +45% organic traffic, +60% social audience, +12% conversion" width="100%"/>
+    <img src="assets/results.svg" alt="Proof of performance: +41% organic traffic, +9% conversion, +38% social audience, 26% email open rate" width="100%"/>
   </a>
 </p>
 
@@ -25,10 +25,10 @@
 
 ### 👤 About me
 
-Data-driven **Digital Marketing Executive** with **4+ years** scaling e-commerce brands through
+Data-driven **Digital Marketing Executive** with **~3 years** scaling e-commerce brands through
 cross-channel campaigns — **paid social, SEO, email, and conversion optimisation**. I turn marketing
-budgets into measurable revenue: a consistent **4:1 return on ad spend**, **+45% organic traffic**,
-and **+12% conversion** through analytics-led A/B testing.
+data into decisions: **+41% organic traffic**, **+9% conversion** through analytics-led CRO, and
+lifecycle email flows averaging a **26% open rate**.
 
 - 🚀 Focused on profitable acquisition, audience growth, and retention
 - 🎓 **MSc Digital Marketing (Merit)** — University of Roehampton
@@ -61,9 +61,9 @@ and **+12% conversion** through analytics-led A/B testing.
 
 | Campaign | What I delivered | Channels |
 |----------|------------------|----------|
-| **Scaling 3 e-commerce brands profitably** | Owned a £15k/mo budget across Google & Meta at a sustained **4:1 ROI**; rebuilt SEO for **+45% organic traffic**; GA4 checkout CRO for **+12% conversion**. | Google Ads · Meta · SEO · GA4 |
-| **Lifecycle email & social growth** | Built welcome + abandoned-cart automations (**28% open / 6.5% CTR**) and a video-first content strategy that grew social following **+60%** and engagement **+35%**. | Email · HubSpot · TikTok · Instagram |
-| **SEO content engine (B2B tech)** | Keyword-led content calendar and on-page SEO that pushed **8 keywords into the top 10**, plus paid LinkedIn campaign support. | SEO · SEMrush · WordPress · LinkedIn Ads |
+| **Scaling 3 e-commerce brands profitably** | Ran technical SEO audits and a cluster-content strategy across three brand sites for **+41% organic traffic**; GA4 checkout CRO for **+9% conversion**. | SEO · GA4 · CRO |
+| **Lifecycle email & social growth** | Built welcome + abandoned-cart automations (**26% open / 3.4% CTR**) and a video-first content strategy that grew social following **+38%** and engagement **+22%**. | Email · Mailchimp · TikTok · Instagram |
+| **SEO content engine (B2B tech)** | Keyword-led content calendar and on-page SEO that pushed **6 keywords into the top 10**, plus paid LinkedIn campaign support. | SEO · SEMrush · WordPress · LinkedIn Ads |
 
 ---
 
@@ -84,9 +84,7 @@ Marketing only counts if you can prove it. These repos show how I measure perfor
 | Certification | Issuer | Year |
 |---------------|--------|------|
 | Google Analytics (GA4) Individual Qualification | Google | 2025 |
-| Google Search Ads Certification | Google | 2025 |
 | Inbound Marketing Certification | HubSpot Academy | 2026 |
-| CIM Level 4 Certificate in Professional Digital Marketing | CIM | 2023 |
 
 ---
 

@@ -26,31 +26,31 @@
     <!-- tile 1 -->
     <rect x="40"  y="120" width="220" height="150" rx="14" fill="#151d36" stroke="#243056"/>
     <rect x="40"  y="120" width="5"  height="150" rx="3" fill="url(#grad)"/>
-    <text x="64" y="190" class="num" fill="#23c4a0">4:1</text>
-    <text x="64" y="218" class="lab">ROAS on £15k/mo</text>
-    <text x="64" y="238" class="lab">paid media budget</text>
+    <text x="64" y="190" class="num" fill="#23c4a0">+41<tspan class="small">%</tspan></text>
+    <text x="64" y="218" class="lab">organic traffic</text>
+    <text x="64" y="238" class="lab">via technical SEO</text>
 
     <!-- tile 2 -->
     <rect x="280" y="120" width="220" height="150" rx="14" fill="#151d36" stroke="#243056"/>
     <rect x="280" y="120" width="5"  height="150" rx="3" fill="url(#grad)"/>
-    <text x="304" y="190" class="num" fill="#ff6b5e">+45<tspan class="small">%</tspan></text>
-    <text x="304" y="218" class="lab">organic traffic</text>
-    <text x="304" y="238" class="lab">via technical SEO</text>
+    <text x="304" y="190" class="num" fill="#ff6b5e">+9<tspan class="small">%</tspan></text>
+    <text x="304" y="218" class="lab">sales conversion</text>
+    <text x="304" y="238" class="lab">GA4-led CRO</text>
 
     <!-- tile 3 -->
     <rect x="520" y="120" width="220" height="150" rx="14" fill="#151d36" stroke="#243056"/>
     <rect x="520" y="120" width="5"  height="150" rx="3" fill="url(#grad)"/>
-    <text x="544" y="190" class="num" fill="#a99bff">+60<tspan class="small">%</tspan></text>
+    <text x="544" y="190" class="num" fill="#a99bff">+38<tspan class="small">%</tspan></text>
     <text x="544" y="218" class="lab">social audience</text>
     <text x="544" y="238" class="lab">IG &amp; TikTok</text>
 
     <!-- tile 4 -->
     <rect x="760" y="120" width="220" height="150" rx="14" fill="#151d36" stroke="#243056"/>
     <rect x="760" y="120" width="5"  height="150" rx="3" fill="url(#grad)"/>
-    <text x="784" y="190" class="num" fill="#ffc857">+12<tspan class="small">%</tspan></text>
-    <text x="784" y="218" class="lab">sales conversion</text>
-    <text x="784" y="238" class="lab">GA4-led CRO</text>
+    <text x="784" y="190" class="num" fill="#ffc857">26<tspan class="small">%</tspan></text>
+    <text x="784" y="218" class="lab">email open rate</text>
+    <text x="784" y="238" class="lab">lifecycle flows</text>
   </g>
 
-  <text x="40" y="300" font-size="13" fill="#6b779b">Email lifecycle flows: 28% open rate · 6.5% CTR  —  Outcomes from prior e-commerce roles</text>
+  <text x="40" y="300" font-size="13" fill="#6b779b">Email lifecycle flows: 26% open rate · 3.4% CTR  —  Outcomes from prior e-commerce roles</text>
 </svg>
